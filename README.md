@@ -41,3 +41,10 @@ NOTE: Glassdoor will require you to insert CAPTCHA on login or during the scrapi
 ![response](http://imgur.com/RlDhpbi.png)
 
 The web scraper will output a JSON with the name "[city name].json" in the same directory. Each data point in the JSON corresponds to one salary on Glassdoor with attributes (company name, job title).
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
